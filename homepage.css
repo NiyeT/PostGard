@@ -1,0 +1,136 @@
+html,body{
+  height: 100%;
+  width: 100%;
+  background-color: ;
+  margin:0;
+  padding: 0;
+}
+.frame{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.test{
+  height: 100%;
+  width: 100%;
+  background-color:
+}
+.master-wrapper{
+  height: 100%;
+  width: 100%;
+  background-color:;
+}
+.navigation-wrapper{
+  height: 9%;
+  width: 100%;
+  background-color: ;
+}
+.login-wrapper{
+
+}
+.title-wrapper{
+  height: 100%;
+  width: 70%;
+  background-color: black;
+  float: right;
+}
+.spacer{
+  height: 100%;
+  width: 15%;
+  float:right;
+  background-color: white;
+}
+.main-wrapper{
+  height: 91%;
+  width: 100%;
+  background-color: ;
+}
+.main-main{
+  height: 100%;
+  width: 1000px ;
+  background-color: ;
+}
+.tutorial-wrapper{
+  height: 100%;
+  width:55%;
+  background-color: ;
+  float:right;
+}
+.signup-wrapper{
+  height: 100%;
+  width: 45%;
+    background-color: ;
+}
+.bank-wrapper{
+  height: 33.3%;
+  width: 100%;
+  background-color: ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.username-wrapper{
+  height: 33.4%;
+  width: 100%;
+  background-color: ;
+}
+.password-wrapper{
+  height: 33.3%;
+  width: 100%;
+  background-color: ;
+
+}
+.input-container{
+  height: 25%;
+  width: 80%;
+  background-color: ;
+  border: 2px;
+  border-style: solid;
+  border-color: #47aaff;
+  border-radius: .5em;
+  transition:border-width .125s;
+}
+.input-container:focus{
+}
+.signup-input-box{
+  height:100%;
+  width: 70%;
+  background-color: ;
+  float:right;
+
+}
+.signup-input-title{
+  height: 100%;
+  width: 30%;
+  background-color: ;
+  font-size: 1.5vw;
+  color: #4267b2 ;
+}
+.signup-input{
+  height: 80%;
+  width: 100%;
+  margin:0;
+  padding: 0;
+  border: 0;
+  font-size: 1.5vw;
+  color: black;
+  background-color: transparent;
+}
+.signup-input:focus{
+  outline: none;
+}
+.signup-input:hover{
+  cursor: pointer;
+}
+.video-wrapper{
+  height: 80%;
+  width: 80%;
+  background-color:;
+}
+
+.tutorial-video{
+  height: 60%;
+  width:100%;
+  background-color: ;
+}
